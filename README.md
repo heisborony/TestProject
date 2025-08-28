@@ -1,2 +1,2 @@
 # TestProject
-This is a HTML, CSS, and JavaScript code to test hosting HCJ files online with GitHub.
+This is an HTML, CSS, and JavaScript code to test hosting HCJ files online with GitHub.
